@@ -1,3 +1,4 @@
+
 # Hotel Revenue Intelligence System
 
 ## Overview
@@ -12,7 +13,6 @@ This project demonstrates how data analytics can drive business decisions throug
 - SQL-Based Business Intelligence
 - Multi-Currency Revenue Reporting
 
----
 
 ## Tech Stack
 
@@ -23,16 +23,12 @@ This project demonstrates how data analytics can drive business decisions throug
 - SQL
 - Jupyter Notebook
 
----
-
 ## Key Business Insights
 
 - VIP customers contribute a disproportionate share of total revenue.
 - Retaining high-value customers delivers significantly higher ROI than acquiring new customers.
 - Historical foreign exchange rates materially influence reported revenue performance.
 - Multi-dimensional VIP definitions outperform single-metric segmentation approaches.
-
----
 
 ## Project Structure
 
@@ -58,7 +54,6 @@ outputs/
 report/
 └── report.pdf
 
----
 
 ## Deliverables
 
@@ -72,8 +67,11 @@ report/
 
 ✔ SQL Analytics
 
----
 
 ## Author
 
 Siddharth Chauhan
+
+# hotel-revenue-intelligence-system
+End-to-end business analytics project involving data quality assessment, customer segmentation, retention vs acquisition strategy, SQL analytics, and multi-currency revenue reporting.
+
